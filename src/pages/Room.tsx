@@ -8,6 +8,7 @@ import "../styles/room.scss";
 import { FormEvent, useEffect, useState } from "react";
 import { useAuth } from "../hooks/useAuth";
 import { database } from "../services/firebase";
+import { Question } from "../components/Question";
 
 type RoomParams = {
   id: string;
@@ -136,6 +137,18 @@ export function Room() {
           </div>
         </form>
       </main>
+
+      <div className="question-list">
+        {questions.map((question) => {
+          return (
+            <Question
+              key={question.id}
+              content={question.content}
+              author={question.author}
+            />
+          );
+        })}
+      </div>
     </div>
   );
 }

@@ -2,7 +2,9 @@
 - [] create toasts - https://react-hot-toast.com/
 - [] create modals
 - [] dark mode
-- [] mobile version
+- [] responsividade
+- [] versão PWA
+- [] outros bancos de dados
 
 # Getting Started with Create React App
 

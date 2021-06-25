@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src=".github/capa.png" alt="preview" width="100%" />  
+  <img src=".github/letmeask.png" alt="letmeask preview" width="100%" />  
 </p>
 
 ## 🚀 About

@@ -7,6 +7,7 @@
 <p align="center">
   <img src=".github/capa.png" alt="preview" width="100%" />  
 </p>
+
 ## 🚀 About
 > 🚀 *Sobre*
 
@@ -72,16 +73,16 @@ firebase deploy
 ## 🔥 Tasks
 > 🔥 *Tarefas*
 	
-- [] create toasts - https://react-hot-toast.com/
-- [] create modals - https://github.com/reactjs/react-modal
-- [] dark mode
-- [] responsividade
-- [] versão PWA - https://create-react-app.dev/docs/making-a-progressive-web-app/
-- [] outros bancos de dados
-- [] adicionar respostas feature
-- [] redirecionar admin corretamente
-- [] lista das salas e informar salas que voce é o admin
-- [] styled components
+- [ ] create toasts - https://react-hot-toast.com/
+- [ ] create modals - https://github.com/reactjs/react-modal
+- [ ] dark mode
+- [ ] responsividade
+- [ ] versão PWA - https://create-react-app.dev/docs/making-a-progressive-web-app/
+- [ ] outros bancos de dados
+- [ ] adicionar respostas feature
+- [ ] redirecionar admin corretamente
+- [ ] lista das salas e informar salas que voce é o admin
+- [ ] styled components
 	
 ## 🤝 Contributing
 > 🤝 *Contribuições*
